@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blue2lee.github.io</id>
     <title>Bluever - BLOG</title>
-    <updated>2020-08-08T04:00:36.279Z</updated>
+    <updated>2020-08-08T04:04:15.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blue2lee.github.io"/>
     <link rel="self" href="https://blue2lee.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://blue2lee.github.io/images/avatar.png</logo>
     <icon>https://blue2lee.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Bluever - BLOG</rights>
+    <entry>
+        <title type="html"><![CDATA[12.12东京（武藏野美大巡礼）]]></title>
+        <id>https://blue2lee.github.io/post/1212-dong-jing-wu-cang-ye-mei-da-xun-li/</id>
+        <link href="https://blue2lee.github.io/post/1212-dong-jing-wu-cang-ye-mei-da-xun-li/">
+        </link>
+        <updated>2019-12-26T04:02:00.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12.11东京（乃木坂巡礼篇）]]></title>
         <id>https://blue2lee.github.io/post/1211-dong-jing-nai-mu-ban-xun-li-pian/</id>
