@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blue2lee.github.io</id>
     <title>Bluever - BLOG</title>
-    <updated>2021-05-22T09:37:26.596Z</updated>
+    <updated>2021-05-22T12:28:18.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blue2lee.github.io"/>
     <link rel="self" href="https://blue2lee.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://blue2lee.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Bluever - BLOG</rights>
     <entry>
-        <title type="html"><![CDATA[美好的]]></title>
+        <title type="html"><![CDATA[美好的 “100”]]></title>
         <id>https://blue2lee.github.io/post/mei-hao-de/</id>
         <link href="https://blue2lee.github.io/post/mei-hao-de/">
         </link>
